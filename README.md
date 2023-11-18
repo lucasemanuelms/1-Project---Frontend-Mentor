@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This is a little project I did to train my skills in HTML5 and CSS3. It's a QR code component that goes to Frontend Mentor Website. 
 
 
-### Screenshot
+### Screenshot Desktop
 
 ![](./assets/QRCodeComponent.png)
 
